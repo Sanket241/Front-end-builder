@@ -1,0 +1,64 @@
+.check{
+    border: 2px solid red;
+    width: 100%;
+}
+
+
+.form-dat{
+    border: 2px solid black;
+    position: relative;
+    top:3px;
+    width: 30%;
+    margin-left: 33%;
+
+}
+
+
+#userId{
+    width: 230px;
+    height: 32px;
+}
+.Id{
+  
+  
+    margin-right: 163px;
+    margin-top: 5px;
+}   
+.titledata{
+    margin-right: 185px;
+    margin-top: 5px;
+}
+
+.dropdown{
+    margin-right: 151px;
+    margin-top: 8px;
+}
+.localitytext{
+    margin-right: 161px;
+    margin-top: 10px;
+
+}
+.number{
+    margin-right: 161px;
+    margin-top: 8px;
+}
+.date{
+    margin-right: 144px;
+    margin-top: 8px;
+}
+#buttonorder{
+    padding: 12px 22px;
+    font-size: 11px;
+    margin-left: 335px;
+    position: relative;
+    top: -9px;
+}
+#userdesId{
+    position: relative;
+    top: 7px;
+    width: 223px;
+}
+.cancelorder{
+    position: relative;
+    top: -18px;
+}

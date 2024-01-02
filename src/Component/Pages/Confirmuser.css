@@ -1,0 +1,44 @@
+.box {
+    width: 100%;
+    /* border: 2px solid red; */
+    height: 310px;
+}
+
+.form-build {
+    border: 2px solid black;
+    position: relative;
+    top: 32px;
+    width: 31%;
+    margin-left: 33%;
+    font-family: -webkit-body;
+    height: 227px;
+}   
+input:hover{
+    background-color: #f8f8f8;
+}
+.form-build:hover {
+    
+    box-shadow: 10px 5px 5px rgb(44, 44, 44);
+}
+.submit-btn{
+    display: flex;
+    font-size: 20px;
+    padding: 0px 10px;
+    margin-left: 340px ;
+    background-color: white;
+    position: relative;
+    top: 34px;
+}
+.submit-btn:hover{
+    background-color:#ebeaea;
+
+}
+.contactoruserid{
+    position: relative;
+    top: 25px;
+}
+.orderid{
+    position: relative;
+    top: 7px;
+    margin-left: 50px;
+}
